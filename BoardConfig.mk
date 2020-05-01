@@ -1,4 +1,4 @@
-SHRP DEVICE_TREE := device/samsung/herolte
+DEVICE_TREE := device/samsung/herolte
 
 # Bootloader
 BOARD_VENDOR := samsung
