@@ -80,6 +80,7 @@ SHRP_REC_TYPE := Treble
 SHRP_DEVICE_TYPE := A_Only
 SHRP_EXPRESS := true
 SHRP_DARK:= true
+SHRP_OFFICIAL := true
 
 # LZMA Compression
 LZMA_COMPRESSION := -9
