@@ -81,6 +81,7 @@ SHRP_DEVICE_TYPE := A_Only
 SHRP_EXPRESS := true
 SHRP_DARK:= true
 SHRP_OFFICIAL := true
+SHRP_NO_SAR_AUTOMOUNT := true
 
 # LZMA Compression
 LZMA_COMPRESSION := -9
