@@ -16,7 +16,7 @@ To build:
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch omni_s5neolte-eng
+lunch omni_herolte-eng
 mka recoveryimage
 ```
 
