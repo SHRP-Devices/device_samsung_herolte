@@ -49,7 +49,7 @@ TW_USE_NEW_MINADBD := true
 BOARD_HAS_NO_REAL_SDCARD := true
 TW_EXCLUDE_TWRPAPP := true
 TW_FORCE_USE_BUSYBOX := true
-TW_DEVICE_VERSION := MoRo-1.4
+TW_DEVICE_VERSION := MoRo-1.5
 
 # exFAT drivers included in the kernel
 TW_NO_EXFAT_FUSE := true
@@ -63,7 +63,7 @@ TW_EXTRA_LANGUAGES := true
 
 # Path of your SHRP Tree
 SHRP_PATH := device/samsung/herolte
-SHRP_MAINTAINER := Sherri
+SHRP_MAINTAINER := Morogoku
 SHRP_DEVICE_CODE := herolte
 SHRP_EDL_MODE := 0
 SHRP_EXTERNAL := /external_sd
