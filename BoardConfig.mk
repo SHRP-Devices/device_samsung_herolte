@@ -51,9 +51,6 @@ TW_EXCLUDE_TWRPAPP := true
 TW_FORCE_USE_BUSYBOX := true
 TW_DEVICE_VERSION := MoRo-1.5
 
-# exFAT drivers included in the kernel
-TW_NO_EXFAT_FUSE := true
-
 # Encryption support
 TW_INCLUDE_CRYPTO := true
 TW_INCLUDE_FBE := true
