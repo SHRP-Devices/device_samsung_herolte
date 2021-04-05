@@ -3,10 +3,10 @@
 Add to .repo/local_manifests/herolte.xml:
 
 ```xml
- <?xml version="1.0" encoding="UTF-8"?>
- <manifest>
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
   <project name="SHRP-Devices/device_samsung_herolte" path="device/samsung/herolte" remote="github" revision="android-9.0" />
- </manifest>
+</manifest>
 ```
 
 Then run repo sync to check it out.
